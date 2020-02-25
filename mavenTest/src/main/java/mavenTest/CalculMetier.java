@@ -11,6 +11,7 @@ public class CalculMetier {
 	
 	public static void main(String[] args) {
 		System.out.println("azerty");
+		System.out.println("coucou");
 	}
 	
 }
