@@ -15,7 +15,7 @@ buildNumber.properties
 *.class
 
 # Log file
-#*.log
+*.log
 
 # BlueJ files
 *.ctxt
